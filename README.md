@@ -1,4 +1,5 @@
 # Wall-of-bricks
+![image](https://user-images.githubusercontent.com/58689270/208689566-eaa40bdd-e281-46aa-a1f9-f69f221b6861.png)
 
 Tasks:
 1. Recreate the wall of bricks,
