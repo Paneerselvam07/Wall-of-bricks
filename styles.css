@@ -1,0 +1,36 @@
+ <style>
+      h3{
+        text-align: center;
+      }
+      .grid-container {
+       top: 10%;
+       left: 30%;
+        position: absolute;
+        border: 1px solid black;
+        width: 600px;
+        height: 600px;
+      }
+      .red,.purple,.royalblue,.white,.orange{
+        width: 100px;
+        height: 120px;
+        
+      }
+      .red{
+        background-color: red;
+      }
+      .purple{
+        background-color: purple;
+      }
+      .royalblue{
+        background-color: royalblue;
+      }
+      .white{
+        background-color: white;
+      }
+      .orange{
+        background-color: orange;
+      }
+      .row{
+        display: flex;
+      }
+    </style>
